@@ -20,10 +20,10 @@ Simulating network queues using a discrete event simulator and comparing the per
 ###### K represents the buffer size in packets
 
 <div align="center">
-    <img src="/images/3.PNG" height="300" width="400">
+    <img src="/images/3.PNG" height="300" width="350">
 </div>
 
 <div align="center">
-    <img src="/images/4.PNG" height="300" width="400">
+    <img src="/images/4.PNG" height="300" width="350">
 </div>
 
